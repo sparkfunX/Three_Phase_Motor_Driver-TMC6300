@@ -1,7 +1,7 @@
 SparkFun 3-Phase BLDC Motor Driver - TMC6300
 ========================================
 
-![SparkFun 3-Phase BLDC Motor Driver - TMC6300](https://cdn.sparkfun.com//assets/parts/2/0/9/8/8/21220-_ROB-_01.jpg)
+[![SparkFun 3-Phase BLDC Motor Driver - TMC6300](https://cdn.sparkfun.com//assets/parts/2/0/9/8/8/21220-_ROB-_01.jpg)](https://www.sparkfun.com/products/21220)
 
 [*SparkFun 3-Phase BLDC Motor Driver - TMC6300(ROB-21220)*](https://www.sparkfun.com/products/21220)
 
